@@ -1,0 +1,6 @@
+openvino-genai[all]
+optimum[openvino]
+nncf
+SpeechRecognition
+PyAudio
+gradio
